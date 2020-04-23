@@ -3,4 +3,4 @@
 
 Based on Tensorflow 1.10 eager mode \
 Full paper: https://arxiv.org/abs/2004.07995 \
-Presentation: https://youtu.be/j2izPOHJBgY \
+Presentation: https://youtu.be/j2izPOHJBgY
